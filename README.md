@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jaethem8y
-- 📫 How to reach me : jaehyeokchoi11@gmail.com. 515-864-9309
+- 📫 How to reach me : jaehyeokchoi11@gmail.com.
 
 <!---
 Jaethem8y/Jaethem8y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
